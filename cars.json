@@ -1,0 +1,10 @@
+[
+  {
+    "model": "tiggo",
+    "is_rented": false
+  },
+  {
+    "model": "gol",
+    "is_rented": false
+  }
+]
